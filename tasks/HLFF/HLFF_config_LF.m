@@ -6,7 +6,7 @@ function s = HLFF_config_LF(initial_config)
     s = config();
   end
 
-  s.game.block.name = 'Food';
+  s.game.block.name = 'Food_LF';
 
   s.objects.lottery.stakes.fontSize = 24;
   s.objects.reference.fontSize = s.objects.lottery.stakes.fontSize;
